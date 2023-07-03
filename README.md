@@ -1,5 +1,5 @@
-# Projeto-e-Desenvolvimento-de-Sistema-de-Banco-de-Dados-Relacional
-Projeto e Desenvolvimento de Sistema de Banco de Dados Relacional para o curso Banco de Dados da Puc Minas
+# Projeto-de-Banco-de-Dados-Relacional
+Projeto de Banco de Dados Relacional para o curso Banco de Dados da Puc Minas
 
 O objetivo deste trabalho é propor um projeto de banco de dados para uma plataforma tecnológica que reunirá as pessoas que buscam imóveis e precisam de auxílio para conseguir alugar, os donos de imóveis e os parceiros que compreendem as empresas e/ou profissionais autônomos que prestarão serviços para esse público. Dentre esses parceiros pode-se destacar os bancos, seguradoras, avaliadores de imóveis, pedreiros, bombeiros hidráulicos, eletricistas, chaveiros, designers de ambiente, entre outros. Buscamos desburocratizar as relações e tornar mais simples, fácil e barato alugar um imóvel.
 
